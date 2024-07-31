@@ -791,13 +791,13 @@ Partial Class Form1
         Me.PictureBox4.Image = CType(resources.GetObject("PictureBox4.Image"), System.Drawing.Image)
         Me.PictureBox4.Location = New System.Drawing.Point(539, 278)
         Me.PictureBox4.Name = "PictureBox4"
-        Me.PictureBox4.Size = New System.Drawing.Size(158, 165)
+        Me.PictureBox4.Size = New System.Drawing.Size(158, 197)
         Me.PictureBox4.TabIndex = 21
         Me.PictureBox4.TabStop = False
         '
         'Button7
         '
-        Me.Button7.Location = New System.Drawing.Point(542, 283)
+        Me.Button7.Location = New System.Drawing.Point(542, 444)
         Me.Button7.Name = "Button7"
         Me.Button7.Size = New System.Drawing.Size(59, 23)
         Me.Button7.TabIndex = 22
@@ -806,7 +806,7 @@ Partial Class Form1
         '
         'Button8
         '
-        Me.Button8.Location = New System.Drawing.Point(640, 283)
+        Me.Button8.Location = New System.Drawing.Point(640, 444)
         Me.Button8.Name = "Button8"
         Me.Button8.Size = New System.Drawing.Size(55, 23)
         Me.Button8.TabIndex = 23
