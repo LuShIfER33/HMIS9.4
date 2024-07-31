@@ -73,6 +73,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="4.Designer.vb">
+      <DependentUpon>4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="4.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="5.Designer.vb">
       <DependentUpon>5.vb</DependentUpon>
     </Compile>
@@ -83,6 +89,12 @@
       <DependentUpon>6.vb</DependentUpon>
     </Compile>
     <Compile Include="6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="7Remaning.Designer.vb">
+      <DependentUpon>7Remaning.vb</DependentUpon>
+    </Compile>
+    <Compile Include="7Remaning.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.vb">
@@ -116,11 +128,17 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="4.resx">
+      <DependentUpon>4.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="5.resx">
       <DependentUpon>5.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="6.resx">
       <DependentUpon>6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="7Remaning.resx">
+      <DependentUpon>7Remaning.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>

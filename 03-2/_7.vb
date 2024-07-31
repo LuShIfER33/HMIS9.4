@@ -374,4 +374,16 @@
     Private Sub TextBox71_TextChanged(sender As Object, e As EventArgs) Handles TextBox71.TextChanged
 
     End Sub
+
+    Private Sub TextBox132_TextChanged(sender As Object, e As EventArgs) Handles TextBox132.TextChanged, TextBox138.TextChanged, TextBox135.TextChanged
+
+    End Sub
+
+    Private Sub TextBox130_TextChanged(sender As Object, e As EventArgs) Handles TextBox130.TextChanged, TextBox136.TextChanged, TextBox133.TextChanged
+
+    End Sub
+
+    Private Sub TextBox131_TextChanged(sender As Object, e As EventArgs) Handles TextBox131.TextChanged, TextBox137.TextChanged, TextBox134.TextChanged
+
+    End Sub
 End Class

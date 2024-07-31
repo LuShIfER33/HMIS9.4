@@ -24,6 +24,54 @@ Partial Class _7
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(_7))
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.TextBox116 = New System.Windows.Forms.TextBox()
+        Me.TextBox115 = New System.Windows.Forms.TextBox()
+        Me.TextBox101 = New System.Windows.Forms.TextBox()
+        Me.TextBox100 = New System.Windows.Forms.TextBox()
+        Me.TextBox114 = New System.Windows.Forms.TextBox()
+        Me.TextBox86 = New System.Windows.Forms.TextBox()
+        Me.TextBox99 = New System.Windows.Forms.TextBox()
+        Me.TextBox113 = New System.Windows.Forms.TextBox()
+        Me.TextBox85 = New System.Windows.Forms.TextBox()
+        Me.TextBox98 = New System.Windows.Forms.TextBox()
+        Me.TextBox112 = New System.Windows.Forms.TextBox()
+        Me.TextBox84 = New System.Windows.Forms.TextBox()
+        Me.TextBox97 = New System.Windows.Forms.TextBox()
+        Me.TextBox111 = New System.Windows.Forms.TextBox()
+        Me.TextBox83 = New System.Windows.Forms.TextBox()
+        Me.TextBox96 = New System.Windows.Forms.TextBox()
+        Me.TextBox110 = New System.Windows.Forms.TextBox()
+        Me.TextBox82 = New System.Windows.Forms.TextBox()
+        Me.TextBox95 = New System.Windows.Forms.TextBox()
+        Me.TextBox109 = New System.Windows.Forms.TextBox()
+        Me.TextBox81 = New System.Windows.Forms.TextBox()
+        Me.TextBox94 = New System.Windows.Forms.TextBox()
+        Me.TextBox108 = New System.Windows.Forms.TextBox()
+        Me.TextBox80 = New System.Windows.Forms.TextBox()
+        Me.TextBox93 = New System.Windows.Forms.TextBox()
+        Me.TextBox107 = New System.Windows.Forms.TextBox()
+        Me.TextBox79 = New System.Windows.Forms.TextBox()
+        Me.TextBox92 = New System.Windows.Forms.TextBox()
+        Me.TextBox106 = New System.Windows.Forms.TextBox()
+        Me.TextBox78 = New System.Windows.Forms.TextBox()
+        Me.TextBox91 = New System.Windows.Forms.TextBox()
+        Me.TextBox105 = New System.Windows.Forms.TextBox()
+        Me.TextBox77 = New System.Windows.Forms.TextBox()
+        Me.TextBox90 = New System.Windows.Forms.TextBox()
+        Me.TextBox104 = New System.Windows.Forms.TextBox()
+        Me.TextBox76 = New System.Windows.Forms.TextBox()
+        Me.TextBox89 = New System.Windows.Forms.TextBox()
+        Me.TextBox103 = New System.Windows.Forms.TextBox()
+        Me.TextBox75 = New System.Windows.Forms.TextBox()
+        Me.TextBox88 = New System.Windows.Forms.TextBox()
+        Me.TextBox102 = New System.Windows.Forms.TextBox()
+        Me.TextBox74 = New System.Windows.Forms.TextBox()
+        Me.TextBox87 = New System.Windows.Forms.TextBox()
+        Me.TextBox73 = New System.Windows.Forms.TextBox()
+        Me.TextBox72 = New System.Windows.Forms.TextBox()
+        Me.Button19 = New System.Windows.Forms.Button()
+        Me.Button20 = New System.Windows.Forms.Button()
+        Me.PictureBox5 = New System.Windows.Forms.PictureBox()
         Me.TextBox71 = New System.Windows.Forms.TextBox()
         Me.TextBox70 = New System.Windows.Forms.TextBox()
         Me.TextBox69 = New System.Windows.Forms.TextBox()
@@ -117,64 +165,71 @@ Partial Class _7
         Me.TextBox2 = New System.Windows.Forms.TextBox()
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox5 = New System.Windows.Forms.PictureBox()
-        Me.Button19 = New System.Windows.Forms.Button()
-        Me.Button20 = New System.Windows.Forms.Button()
-        Me.TextBox72 = New System.Windows.Forms.TextBox()
-        Me.TextBox73 = New System.Windows.Forms.TextBox()
-        Me.TextBox74 = New System.Windows.Forms.TextBox()
-        Me.TextBox75 = New System.Windows.Forms.TextBox()
-        Me.TextBox76 = New System.Windows.Forms.TextBox()
-        Me.TextBox77 = New System.Windows.Forms.TextBox()
-        Me.TextBox78 = New System.Windows.Forms.TextBox()
-        Me.TextBox79 = New System.Windows.Forms.TextBox()
-        Me.TextBox80 = New System.Windows.Forms.TextBox()
-        Me.TextBox81 = New System.Windows.Forms.TextBox()
-        Me.TextBox82 = New System.Windows.Forms.TextBox()
-        Me.TextBox83 = New System.Windows.Forms.TextBox()
-        Me.TextBox84 = New System.Windows.Forms.TextBox()
-        Me.TextBox85 = New System.Windows.Forms.TextBox()
-        Me.TextBox86 = New System.Windows.Forms.TextBox()
-        Me.TextBox87 = New System.Windows.Forms.TextBox()
-        Me.TextBox88 = New System.Windows.Forms.TextBox()
-        Me.TextBox89 = New System.Windows.Forms.TextBox()
-        Me.TextBox90 = New System.Windows.Forms.TextBox()
-        Me.TextBox91 = New System.Windows.Forms.TextBox()
-        Me.TextBox92 = New System.Windows.Forms.TextBox()
-        Me.TextBox93 = New System.Windows.Forms.TextBox()
-        Me.TextBox94 = New System.Windows.Forms.TextBox()
-        Me.TextBox95 = New System.Windows.Forms.TextBox()
-        Me.TextBox96 = New System.Windows.Forms.TextBox()
-        Me.TextBox97 = New System.Windows.Forms.TextBox()
-        Me.TextBox98 = New System.Windows.Forms.TextBox()
-        Me.TextBox99 = New System.Windows.Forms.TextBox()
-        Me.TextBox100 = New System.Windows.Forms.TextBox()
-        Me.TextBox101 = New System.Windows.Forms.TextBox()
-        Me.TextBox102 = New System.Windows.Forms.TextBox()
-        Me.TextBox103 = New System.Windows.Forms.TextBox()
-        Me.TextBox104 = New System.Windows.Forms.TextBox()
-        Me.TextBox105 = New System.Windows.Forms.TextBox()
-        Me.TextBox106 = New System.Windows.Forms.TextBox()
-        Me.TextBox107 = New System.Windows.Forms.TextBox()
-        Me.TextBox108 = New System.Windows.Forms.TextBox()
-        Me.TextBox109 = New System.Windows.Forms.TextBox()
-        Me.TextBox110 = New System.Windows.Forms.TextBox()
-        Me.TextBox111 = New System.Windows.Forms.TextBox()
-        Me.TextBox112 = New System.Windows.Forms.TextBox()
-        Me.TextBox113 = New System.Windows.Forms.TextBox()
-        Me.TextBox114 = New System.Windows.Forms.TextBox()
-        Me.TextBox115 = New System.Windows.Forms.TextBox()
-        Me.TextBox116 = New System.Windows.Forms.TextBox()
+        Me.PictureBox6 = New System.Windows.Forms.PictureBox()
+        Me.Button21 = New System.Windows.Forms.Button()
+        Me.Button22 = New System.Windows.Forms.Button()
+        Me.Button23 = New System.Windows.Forms.Button()
+        Me.Button24 = New System.Windows.Forms.Button()
+        Me.TextBox117 = New System.Windows.Forms.TextBox()
+        Me.TextBox118 = New System.Windows.Forms.TextBox()
+        Me.TextBox119 = New System.Windows.Forms.TextBox()
+        Me.TextBox120 = New System.Windows.Forms.TextBox()
+        Me.TextBox121 = New System.Windows.Forms.TextBox()
+        Me.TextBox122 = New System.Windows.Forms.TextBox()
+        Me.TextBox123 = New System.Windows.Forms.TextBox()
+        Me.TextBox124 = New System.Windows.Forms.TextBox()
+        Me.TextBox125 = New System.Windows.Forms.TextBox()
+        Me.TextBox126 = New System.Windows.Forms.TextBox()
+        Me.TextBox127 = New System.Windows.Forms.TextBox()
+        Me.TextBox128 = New System.Windows.Forms.TextBox()
+        Me.TextBox129 = New System.Windows.Forms.TextBox()
+        Me.TextBox130 = New System.Windows.Forms.TextBox()
+        Me.TextBox131 = New System.Windows.Forms.TextBox()
+        Me.TextBox132 = New System.Windows.Forms.TextBox()
+        Me.TextBox133 = New System.Windows.Forms.TextBox()
+        Me.TextBox134 = New System.Windows.Forms.TextBox()
+        Me.TextBox135 = New System.Windows.Forms.TextBox()
+        Me.TextBox136 = New System.Windows.Forms.TextBox()
+        Me.TextBox137 = New System.Windows.Forms.TextBox()
+        Me.TextBox138 = New System.Windows.Forms.TextBox()
         Me.GroupBox1.SuspendLayout()
+        CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox6, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'GroupBox1
         '
+        Me.GroupBox1.Controls.Add(Me.TextBox138)
+        Me.GroupBox1.Controls.Add(Me.TextBox137)
+        Me.GroupBox1.Controls.Add(Me.TextBox135)
+        Me.GroupBox1.Controls.Add(Me.TextBox134)
+        Me.GroupBox1.Controls.Add(Me.TextBox132)
+        Me.GroupBox1.Controls.Add(Me.TextBox131)
+        Me.GroupBox1.Controls.Add(Me.TextBox129)
+        Me.GroupBox1.Controls.Add(Me.TextBox136)
+        Me.GroupBox1.Controls.Add(Me.TextBox128)
+        Me.GroupBox1.Controls.Add(Me.TextBox133)
+        Me.GroupBox1.Controls.Add(Me.TextBox126)
+        Me.GroupBox1.Controls.Add(Me.TextBox130)
+        Me.GroupBox1.Controls.Add(Me.TextBox125)
+        Me.GroupBox1.Controls.Add(Me.TextBox127)
+        Me.GroupBox1.Controls.Add(Me.TextBox123)
+        Me.GroupBox1.Controls.Add(Me.TextBox124)
+        Me.GroupBox1.Controls.Add(Me.TextBox122)
+        Me.GroupBox1.Controls.Add(Me.TextBox121)
+        Me.GroupBox1.Controls.Add(Me.TextBox120)
+        Me.GroupBox1.Controls.Add(Me.TextBox119)
+        Me.GroupBox1.Controls.Add(Me.TextBox118)
+        Me.GroupBox1.Controls.Add(Me.TextBox117)
+        Me.GroupBox1.Controls.Add(Me.Button24)
+        Me.GroupBox1.Controls.Add(Me.Button23)
+        Me.GroupBox1.Controls.Add(Me.Button22)
+        Me.GroupBox1.Controls.Add(Me.Button21)
+        Me.GroupBox1.Controls.Add(Me.PictureBox6)
         Me.GroupBox1.Controls.Add(Me.TextBox116)
         Me.GroupBox1.Controls.Add(Me.TextBox115)
         Me.GroupBox1.Controls.Add(Me.TextBox101)
@@ -321,6 +376,387 @@ Partial Class _7
         Me.GroupBox1.Size = New System.Drawing.Size(1300, 740)
         Me.GroupBox1.TabIndex = 0
         Me.GroupBox1.TabStop = False
+        '
+        'TextBox116
+        '
+        Me.TextBox116.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox116.Location = New System.Drawing.Point(719, 660)
+        Me.TextBox116.Name = "TextBox116"
+        Me.TextBox116.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox116.TabIndex = 20
+        '
+        'TextBox115
+        '
+        Me.TextBox115.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox115.Location = New System.Drawing.Point(718, 640)
+        Me.TextBox115.Name = "TextBox115"
+        Me.TextBox115.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox115.TabIndex = 20
+        '
+        'TextBox101
+        '
+        Me.TextBox101.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox101.Location = New System.Drawing.Point(664, 660)
+        Me.TextBox101.Name = "TextBox101"
+        Me.TextBox101.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox101.TabIndex = 20
+        '
+        'TextBox100
+        '
+        Me.TextBox100.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox100.Location = New System.Drawing.Point(663, 640)
+        Me.TextBox100.Name = "TextBox100"
+        Me.TextBox100.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox100.TabIndex = 20
+        '
+        'TextBox114
+        '
+        Me.TextBox114.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox114.Location = New System.Drawing.Point(718, 622)
+        Me.TextBox114.Name = "TextBox114"
+        Me.TextBox114.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox114.TabIndex = 20
+        '
+        'TextBox86
+        '
+        Me.TextBox86.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox86.Location = New System.Drawing.Point(610, 660)
+        Me.TextBox86.Name = "TextBox86"
+        Me.TextBox86.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox86.TabIndex = 20
+        '
+        'TextBox99
+        '
+        Me.TextBox99.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox99.Location = New System.Drawing.Point(663, 622)
+        Me.TextBox99.Name = "TextBox99"
+        Me.TextBox99.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox99.TabIndex = 20
+        '
+        'TextBox113
+        '
+        Me.TextBox113.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox113.Location = New System.Drawing.Point(718, 604)
+        Me.TextBox113.Name = "TextBox113"
+        Me.TextBox113.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox113.TabIndex = 20
+        '
+        'TextBox85
+        '
+        Me.TextBox85.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox85.Location = New System.Drawing.Point(609, 640)
+        Me.TextBox85.Name = "TextBox85"
+        Me.TextBox85.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox85.TabIndex = 20
+        '
+        'TextBox98
+        '
+        Me.TextBox98.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox98.Location = New System.Drawing.Point(663, 604)
+        Me.TextBox98.Name = "TextBox98"
+        Me.TextBox98.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox98.TabIndex = 20
+        '
+        'TextBox112
+        '
+        Me.TextBox112.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox112.Location = New System.Drawing.Point(719, 586)
+        Me.TextBox112.Name = "TextBox112"
+        Me.TextBox112.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox112.TabIndex = 20
+        '
+        'TextBox84
+        '
+        Me.TextBox84.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox84.Location = New System.Drawing.Point(609, 622)
+        Me.TextBox84.Name = "TextBox84"
+        Me.TextBox84.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox84.TabIndex = 20
+        '
+        'TextBox97
+        '
+        Me.TextBox97.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox97.Location = New System.Drawing.Point(664, 586)
+        Me.TextBox97.Name = "TextBox97"
+        Me.TextBox97.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox97.TabIndex = 20
+        '
+        'TextBox111
+        '
+        Me.TextBox111.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox111.Location = New System.Drawing.Point(719, 566)
+        Me.TextBox111.Name = "TextBox111"
+        Me.TextBox111.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox111.TabIndex = 20
+        '
+        'TextBox83
+        '
+        Me.TextBox83.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox83.Location = New System.Drawing.Point(609, 604)
+        Me.TextBox83.Name = "TextBox83"
+        Me.TextBox83.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox83.TabIndex = 20
+        '
+        'TextBox96
+        '
+        Me.TextBox96.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox96.Location = New System.Drawing.Point(664, 566)
+        Me.TextBox96.Name = "TextBox96"
+        Me.TextBox96.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox96.TabIndex = 20
+        '
+        'TextBox110
+        '
+        Me.TextBox110.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox110.Location = New System.Drawing.Point(719, 545)
+        Me.TextBox110.Name = "TextBox110"
+        Me.TextBox110.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox110.TabIndex = 20
+        '
+        'TextBox82
+        '
+        Me.TextBox82.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox82.Location = New System.Drawing.Point(610, 586)
+        Me.TextBox82.Name = "TextBox82"
+        Me.TextBox82.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox82.TabIndex = 20
+        '
+        'TextBox95
+        '
+        Me.TextBox95.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox95.Location = New System.Drawing.Point(664, 545)
+        Me.TextBox95.Name = "TextBox95"
+        Me.TextBox95.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox95.TabIndex = 20
+        '
+        'TextBox109
+        '
+        Me.TextBox109.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox109.Location = New System.Drawing.Point(718, 524)
+        Me.TextBox109.Name = "TextBox109"
+        Me.TextBox109.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox109.TabIndex = 20
+        '
+        'TextBox81
+        '
+        Me.TextBox81.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox81.Location = New System.Drawing.Point(610, 566)
+        Me.TextBox81.Name = "TextBox81"
+        Me.TextBox81.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox81.TabIndex = 20
+        '
+        'TextBox94
+        '
+        Me.TextBox94.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox94.Location = New System.Drawing.Point(663, 524)
+        Me.TextBox94.Name = "TextBox94"
+        Me.TextBox94.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox94.TabIndex = 20
+        '
+        'TextBox108
+        '
+        Me.TextBox108.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox108.Location = New System.Drawing.Point(718, 499)
+        Me.TextBox108.Name = "TextBox108"
+        Me.TextBox108.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox108.TabIndex = 20
+        '
+        'TextBox80
+        '
+        Me.TextBox80.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox80.Location = New System.Drawing.Point(610, 545)
+        Me.TextBox80.Name = "TextBox80"
+        Me.TextBox80.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox80.TabIndex = 20
+        '
+        'TextBox93
+        '
+        Me.TextBox93.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox93.Location = New System.Drawing.Point(663, 499)
+        Me.TextBox93.Name = "TextBox93"
+        Me.TextBox93.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox93.TabIndex = 20
+        '
+        'TextBox107
+        '
+        Me.TextBox107.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox107.Location = New System.Drawing.Point(718, 475)
+        Me.TextBox107.Name = "TextBox107"
+        Me.TextBox107.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox107.TabIndex = 20
+        '
+        'TextBox79
+        '
+        Me.TextBox79.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox79.Location = New System.Drawing.Point(609, 524)
+        Me.TextBox79.Name = "TextBox79"
+        Me.TextBox79.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox79.TabIndex = 20
+        '
+        'TextBox92
+        '
+        Me.TextBox92.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox92.Location = New System.Drawing.Point(663, 475)
+        Me.TextBox92.Name = "TextBox92"
+        Me.TextBox92.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox92.TabIndex = 20
+        '
+        'TextBox106
+        '
+        Me.TextBox106.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox106.Location = New System.Drawing.Point(718, 454)
+        Me.TextBox106.Name = "TextBox106"
+        Me.TextBox106.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox106.TabIndex = 20
+        '
+        'TextBox78
+        '
+        Me.TextBox78.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox78.Location = New System.Drawing.Point(609, 499)
+        Me.TextBox78.Name = "TextBox78"
+        Me.TextBox78.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox78.TabIndex = 20
+        '
+        'TextBox91
+        '
+        Me.TextBox91.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox91.Location = New System.Drawing.Point(663, 454)
+        Me.TextBox91.Name = "TextBox91"
+        Me.TextBox91.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox91.TabIndex = 20
+        '
+        'TextBox105
+        '
+        Me.TextBox105.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox105.Location = New System.Drawing.Point(718, 436)
+        Me.TextBox105.Name = "TextBox105"
+        Me.TextBox105.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox105.TabIndex = 20
+        '
+        'TextBox77
+        '
+        Me.TextBox77.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox77.Location = New System.Drawing.Point(609, 475)
+        Me.TextBox77.Name = "TextBox77"
+        Me.TextBox77.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox77.TabIndex = 20
+        '
+        'TextBox90
+        '
+        Me.TextBox90.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox90.Location = New System.Drawing.Point(663, 436)
+        Me.TextBox90.Name = "TextBox90"
+        Me.TextBox90.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox90.TabIndex = 20
+        '
+        'TextBox104
+        '
+        Me.TextBox104.Location = New System.Drawing.Point(718, 413)
+        Me.TextBox104.Name = "TextBox104"
+        Me.TextBox104.Size = New System.Drawing.Size(44, 20)
+        Me.TextBox104.TabIndex = 20
+        '
+        'TextBox76
+        '
+        Me.TextBox76.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox76.Location = New System.Drawing.Point(609, 454)
+        Me.TextBox76.Name = "TextBox76"
+        Me.TextBox76.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox76.TabIndex = 20
+        '
+        'TextBox89
+        '
+        Me.TextBox89.Location = New System.Drawing.Point(663, 413)
+        Me.TextBox89.Name = "TextBox89"
+        Me.TextBox89.Size = New System.Drawing.Size(44, 20)
+        Me.TextBox89.TabIndex = 20
+        '
+        'TextBox103
+        '
+        Me.TextBox103.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox103.Location = New System.Drawing.Point(718, 392)
+        Me.TextBox103.Name = "TextBox103"
+        Me.TextBox103.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox103.TabIndex = 20
+        '
+        'TextBox75
+        '
+        Me.TextBox75.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox75.Location = New System.Drawing.Point(609, 436)
+        Me.TextBox75.Name = "TextBox75"
+        Me.TextBox75.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox75.TabIndex = 20
+        '
+        'TextBox88
+        '
+        Me.TextBox88.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox88.Location = New System.Drawing.Point(663, 392)
+        Me.TextBox88.Name = "TextBox88"
+        Me.TextBox88.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox88.TabIndex = 20
+        '
+        'TextBox102
+        '
+        Me.TextBox102.Location = New System.Drawing.Point(718, 367)
+        Me.TextBox102.Name = "TextBox102"
+        Me.TextBox102.Size = New System.Drawing.Size(44, 20)
+        Me.TextBox102.TabIndex = 20
+        '
+        'TextBox74
+        '
+        Me.TextBox74.Location = New System.Drawing.Point(609, 413)
+        Me.TextBox74.Name = "TextBox74"
+        Me.TextBox74.Size = New System.Drawing.Size(44, 20)
+        Me.TextBox74.TabIndex = 20
+        '
+        'TextBox87
+        '
+        Me.TextBox87.Location = New System.Drawing.Point(663, 367)
+        Me.TextBox87.Name = "TextBox87"
+        Me.TextBox87.Size = New System.Drawing.Size(44, 20)
+        Me.TextBox87.TabIndex = 20
+        '
+        'TextBox73
+        '
+        Me.TextBox73.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox73.Location = New System.Drawing.Point(609, 392)
+        Me.TextBox73.Name = "TextBox73"
+        Me.TextBox73.Size = New System.Drawing.Size(44, 17)
+        Me.TextBox73.TabIndex = 20
+        '
+        'TextBox72
+        '
+        Me.TextBox72.Location = New System.Drawing.Point(609, 367)
+        Me.TextBox72.Name = "TextBox72"
+        Me.TextBox72.Size = New System.Drawing.Size(44, 20)
+        Me.TextBox72.TabIndex = 20
+        '
+        'Button19
+        '
+        Me.Button19.Location = New System.Drawing.Point(479, 343)
+        Me.Button19.Name = "Button19"
+        Me.Button19.Size = New System.Drawing.Size(40, 19)
+        Me.Button19.TabIndex = 19
+        Me.Button19.Text = "Push"
+        Me.Button19.UseVisualStyleBackColor = True
+        '
+        'Button20
+        '
+        Me.Button20.Location = New System.Drawing.Point(419, 343)
+        Me.Button20.Name = "Button20"
+        Me.Button20.Size = New System.Drawing.Size(37, 19)
+        Me.Button20.TabIndex = 18
+        Me.Button20.Text = "load"
+        Me.Button20.UseVisualStyleBackColor = True
+        '
+        'PictureBox5
+        '
+        Me.PictureBox5.Image = CType(resources.GetObject("PictureBox5.Image"), System.Drawing.Image)
+        Me.PictureBox5.Location = New System.Drawing.Point(383, 321)
+        Me.PictureBox5.Name = "PictureBox5"
+        Me.PictureBox5.Size = New System.Drawing.Size(387, 362)
+        Me.PictureBox5.TabIndex = 17
+        Me.PictureBox5.TabStop = False
         '
         'TextBox71
         '
@@ -1062,392 +1498,210 @@ Partial Class _7
         'PictureBox1
         '
         Me.PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), System.Drawing.Image)
-        Me.PictureBox1.Location = New System.Drawing.Point(4, 9)
+        Me.PictureBox1.Location = New System.Drawing.Point(4, 7)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(375, 304)
         Me.PictureBox1.TabIndex = 0
         Me.PictureBox1.TabStop = False
         '
-        'PictureBox5
-        '
-        Me.PictureBox5.Image = CType(resources.GetObject("PictureBox5.Image"), System.Drawing.Image)
-        Me.PictureBox5.Location = New System.Drawing.Point(383, 321)
-        Me.PictureBox5.Name = "PictureBox5"
-        Me.PictureBox5.Size = New System.Drawing.Size(387, 362)
-        Me.PictureBox5.TabIndex = 17
-        Me.PictureBox5.TabStop = False
+        'PictureBox6
         '
-        'Button19
-        '
-        Me.Button19.Location = New System.Drawing.Point(479, 343)
-        Me.Button19.Name = "Button19"
-        Me.Button19.Size = New System.Drawing.Size(40, 19)
-        Me.Button19.TabIndex = 19
-        Me.Button19.Text = "Push"
-        Me.Button19.UseVisualStyleBackColor = True
-        '
-        'Button20
-        '
-        Me.Button20.Location = New System.Drawing.Point(419, 343)
-        Me.Button20.Name = "Button20"
-        Me.Button20.Size = New System.Drawing.Size(37, 19)
-        Me.Button20.TabIndex = 18
-        Me.Button20.Text = "load"
-        Me.Button20.UseVisualStyleBackColor = True
-        '
-        'TextBox72
-        '
-        Me.TextBox72.Location = New System.Drawing.Point(609, 367)
-        Me.TextBox72.Name = "TextBox72"
-        Me.TextBox72.Size = New System.Drawing.Size(44, 20)
-        Me.TextBox72.TabIndex = 20
-        '
-        'TextBox73
-        '
-        Me.TextBox73.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox73.Location = New System.Drawing.Point(609, 392)
-        Me.TextBox73.Name = "TextBox73"
-        Me.TextBox73.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox73.TabIndex = 20
-        '
-        'TextBox74
-        '
-        Me.TextBox74.Location = New System.Drawing.Point(609, 413)
-        Me.TextBox74.Name = "TextBox74"
-        Me.TextBox74.Size = New System.Drawing.Size(44, 20)
-        Me.TextBox74.TabIndex = 20
+        Me.PictureBox6.Image = CType(resources.GetObject("PictureBox6.Image"), System.Drawing.Image)
+        Me.PictureBox6.Location = New System.Drawing.Point(774, 324)
+        Me.PictureBox6.Name = "PictureBox6"
+        Me.PictureBox6.Size = New System.Drawing.Size(386, 284)
+        Me.PictureBox6.TabIndex = 21
+        Me.PictureBox6.TabStop = False
         '
-        'TextBox75
-        '
-        Me.TextBox75.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox75.Location = New System.Drawing.Point(609, 436)
-        Me.TextBox75.Name = "TextBox75"
-        Me.TextBox75.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox75.TabIndex = 20
+        'Button21
         '
-        'TextBox76
-        '
-        Me.TextBox76.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox76.Location = New System.Drawing.Point(609, 454)
-        Me.TextBox76.Name = "TextBox76"
-        Me.TextBox76.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox76.TabIndex = 20
+        Me.Button21.Location = New System.Drawing.Point(779, 340)
+        Me.Button21.Name = "Button21"
+        Me.Button21.Size = New System.Drawing.Size(56, 23)
+        Me.Button21.TabIndex = 22
+        Me.Button21.Text = "Load"
+        Me.Button21.UseVisualStyleBackColor = True
         '
-        'TextBox77
-        '
-        Me.TextBox77.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox77.Location = New System.Drawing.Point(609, 475)
-        Me.TextBox77.Name = "TextBox77"
-        Me.TextBox77.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox77.TabIndex = 20
+        'Button22
         '
-        'TextBox78
-        '
-        Me.TextBox78.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox78.Location = New System.Drawing.Point(609, 499)
-        Me.TextBox78.Name = "TextBox78"
-        Me.TextBox78.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox78.TabIndex = 20
+        Me.Button22.Location = New System.Drawing.Point(914, 340)
+        Me.Button22.Name = "Button22"
+        Me.Button22.Size = New System.Drawing.Size(56, 23)
+        Me.Button22.TabIndex = 22
+        Me.Button22.Text = "Push"
+        Me.Button22.UseVisualStyleBackColor = True
         '
-        'TextBox79
-        '
-        Me.TextBox79.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox79.Location = New System.Drawing.Point(609, 524)
-        Me.TextBox79.Name = "TextBox79"
-        Me.TextBox79.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox79.TabIndex = 20
+        'Button23
         '
-        'TextBox80
-        '
-        Me.TextBox80.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox80.Location = New System.Drawing.Point(610, 545)
-        Me.TextBox80.Name = "TextBox80"
-        Me.TextBox80.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox80.TabIndex = 20
+        Me.Button23.Location = New System.Drawing.Point(779, 436)
+        Me.Button23.Name = "Button23"
+        Me.Button23.Size = New System.Drawing.Size(56, 23)
+        Me.Button23.TabIndex = 22
+        Me.Button23.Text = "Load"
+        Me.Button23.UseVisualStyleBackColor = True
         '
-        'TextBox81
-        '
-        Me.TextBox81.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox81.Location = New System.Drawing.Point(610, 566)
-        Me.TextBox81.Name = "TextBox81"
-        Me.TextBox81.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox81.TabIndex = 20
+        'Button24
         '
-        'TextBox82
-        '
-        Me.TextBox82.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox82.Location = New System.Drawing.Point(610, 586)
-        Me.TextBox82.Name = "TextBox82"
-        Me.TextBox82.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox82.TabIndex = 20
+        Me.Button24.Location = New System.Drawing.Point(850, 436)
+        Me.Button24.Name = "Button24"
+        Me.Button24.Size = New System.Drawing.Size(56, 23)
+        Me.Button24.TabIndex = 22
+        Me.Button24.Text = "Push"
+        Me.Button24.UseVisualStyleBackColor = True
         '
-        'TextBox83
-        '
-        Me.TextBox83.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox83.Location = New System.Drawing.Point(609, 604)
-        Me.TextBox83.Name = "TextBox83"
-        Me.TextBox83.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox83.TabIndex = 20
+        'TextBox117
         '
-        'TextBox84
-        '
-        Me.TextBox84.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox84.Location = New System.Drawing.Point(609, 622)
-        Me.TextBox84.Name = "TextBox84"
-        Me.TextBox84.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox84.TabIndex = 20
+        Me.TextBox117.Location = New System.Drawing.Point(1051, 385)
+        Me.TextBox117.Name = "TextBox117"
+        Me.TextBox117.Size = New System.Drawing.Size(43, 20)
+        Me.TextBox117.TabIndex = 23
         '
-        'TextBox85
-        '
-        Me.TextBox85.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox85.Location = New System.Drawing.Point(609, 640)
-        Me.TextBox85.Name = "TextBox85"
-        Me.TextBox85.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox85.TabIndex = 20
+        'TextBox118
         '
-        'TextBox86
-        '
-        Me.TextBox86.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox86.Location = New System.Drawing.Point(610, 660)
-        Me.TextBox86.Name = "TextBox86"
-        Me.TextBox86.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox86.TabIndex = 20
+        Me.TextBox118.Location = New System.Drawing.Point(1051, 406)
+        Me.TextBox118.Name = "TextBox118"
+        Me.TextBox118.Size = New System.Drawing.Size(43, 20)
+        Me.TextBox118.TabIndex = 23
         '
-        'TextBox87
-        '
-        Me.TextBox87.Location = New System.Drawing.Point(663, 367)
-        Me.TextBox87.Name = "TextBox87"
-        Me.TextBox87.Size = New System.Drawing.Size(44, 20)
-        Me.TextBox87.TabIndex = 20
+        'TextBox119
         '
-        'TextBox88
-        '
-        Me.TextBox88.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox88.Location = New System.Drawing.Point(663, 392)
-        Me.TextBox88.Name = "TextBox88"
-        Me.TextBox88.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox88.TabIndex = 20
+        Me.TextBox119.Location = New System.Drawing.Point(1100, 385)
+        Me.TextBox119.Name = "TextBox119"
+        Me.TextBox119.Size = New System.Drawing.Size(51, 20)
+        Me.TextBox119.TabIndex = 23
         '
-        'TextBox89
-        '
-        Me.TextBox89.Location = New System.Drawing.Point(663, 413)
-        Me.TextBox89.Name = "TextBox89"
-        Me.TextBox89.Size = New System.Drawing.Size(44, 20)
-        Me.TextBox89.TabIndex = 20
+        'TextBox120
         '
-        'TextBox90
+        Me.TextBox120.Location = New System.Drawing.Point(1100, 406)
+        Me.TextBox120.Name = "TextBox120"
+        Me.TextBox120.Size = New System.Drawing.Size(51, 20)
+        Me.TextBox120.TabIndex = 23
         '
-        Me.TextBox90.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox90.Location = New System.Drawing.Point(663, 436)
-        Me.TextBox90.Name = "TextBox90"
-        Me.TextBox90.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox90.TabIndex = 20
+        'TextBox121
         '
-        'TextBox91
+        Me.TextBox121.Location = New System.Drawing.Point(908, 523)
+        Me.TextBox121.Name = "TextBox121"
+        Me.TextBox121.Size = New System.Drawing.Size(47, 20)
+        Me.TextBox121.TabIndex = 24
         '
-        Me.TextBox91.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox91.Location = New System.Drawing.Point(663, 454)
-        Me.TextBox91.Name = "TextBox91"
-        Me.TextBox91.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox91.TabIndex = 20
+        'TextBox122
         '
-        'TextBox92
+        Me.TextBox122.Location = New System.Drawing.Point(908, 552)
+        Me.TextBox122.Name = "TextBox122"
+        Me.TextBox122.Size = New System.Drawing.Size(47, 20)
+        Me.TextBox122.TabIndex = 24
         '
-        Me.TextBox92.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox92.Location = New System.Drawing.Point(663, 475)
-        Me.TextBox92.Name = "TextBox92"
-        Me.TextBox92.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox92.TabIndex = 20
+        'TextBox123
         '
-        'TextBox93
+        Me.TextBox123.Location = New System.Drawing.Point(908, 580)
+        Me.TextBox123.Name = "TextBox123"
+        Me.TextBox123.Size = New System.Drawing.Size(47, 20)
+        Me.TextBox123.TabIndex = 24
         '
-        Me.TextBox93.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox93.Location = New System.Drawing.Point(663, 499)
-        Me.TextBox93.Name = "TextBox93"
-        Me.TextBox93.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox93.TabIndex = 20
+        'TextBox124
         '
-        'TextBox94
+        Me.TextBox124.Location = New System.Drawing.Point(958, 523)
+        Me.TextBox124.Name = "TextBox124"
+        Me.TextBox124.Size = New System.Drawing.Size(47, 20)
+        Me.TextBox124.TabIndex = 24
         '
-        Me.TextBox94.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox94.Location = New System.Drawing.Point(663, 524)
-        Me.TextBox94.Name = "TextBox94"
-        Me.TextBox94.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox94.TabIndex = 20
+        'TextBox125
         '
-        'TextBox95
+        Me.TextBox125.Location = New System.Drawing.Point(958, 552)
+        Me.TextBox125.Name = "TextBox125"
+        Me.TextBox125.Size = New System.Drawing.Size(47, 20)
+        Me.TextBox125.TabIndex = 24
         '
-        Me.TextBox95.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox95.Location = New System.Drawing.Point(664, 545)
-        Me.TextBox95.Name = "TextBox95"
-        Me.TextBox95.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox95.TabIndex = 20
+        'TextBox126
         '
-        'TextBox96
+        Me.TextBox126.Location = New System.Drawing.Point(958, 580)
+        Me.TextBox126.Name = "TextBox126"
+        Me.TextBox126.Size = New System.Drawing.Size(47, 20)
+        Me.TextBox126.TabIndex = 24
         '
-        Me.TextBox96.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox96.Location = New System.Drawing.Point(664, 566)
-        Me.TextBox96.Name = "TextBox96"
-        Me.TextBox96.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox96.TabIndex = 20
+        'TextBox127
         '
-        'TextBox97
+        Me.TextBox127.Location = New System.Drawing.Point(1007, 523)
+        Me.TextBox127.Name = "TextBox127"
+        Me.TextBox127.Size = New System.Drawing.Size(39, 20)
+        Me.TextBox127.TabIndex = 24
         '
-        Me.TextBox97.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox97.Location = New System.Drawing.Point(664, 586)
-        Me.TextBox97.Name = "TextBox97"
-        Me.TextBox97.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox97.TabIndex = 20
+        'TextBox128
         '
-        'TextBox98
+        Me.TextBox128.Location = New System.Drawing.Point(1007, 552)
+        Me.TextBox128.Name = "TextBox128"
+        Me.TextBox128.Size = New System.Drawing.Size(39, 20)
+        Me.TextBox128.TabIndex = 24
         '
-        Me.TextBox98.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox98.Location = New System.Drawing.Point(663, 604)
-        Me.TextBox98.Name = "TextBox98"
-        Me.TextBox98.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox98.TabIndex = 20
+        'TextBox129
         '
-        'TextBox99
+        Me.TextBox129.Location = New System.Drawing.Point(1007, 580)
+        Me.TextBox129.Name = "TextBox129"
+        Me.TextBox129.Size = New System.Drawing.Size(39, 20)
+        Me.TextBox129.TabIndex = 24
         '
-        Me.TextBox99.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox99.Location = New System.Drawing.Point(663, 622)
-        Me.TextBox99.Name = "TextBox99"
-        Me.TextBox99.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox99.TabIndex = 20
+        'TextBox130
         '
-        'TextBox100
+        Me.TextBox130.Location = New System.Drawing.Point(1047, 523)
+        Me.TextBox130.Name = "TextBox130"
+        Me.TextBox130.Size = New System.Drawing.Size(39, 20)
+        Me.TextBox130.TabIndex = 24
         '
-        Me.TextBox100.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox100.Location = New System.Drawing.Point(663, 640)
-        Me.TextBox100.Name = "TextBox100"
-        Me.TextBox100.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox100.TabIndex = 20
+        'TextBox131
         '
-        'TextBox101
+        Me.TextBox131.Location = New System.Drawing.Point(1047, 552)
+        Me.TextBox131.Name = "TextBox131"
+        Me.TextBox131.Size = New System.Drawing.Size(39, 20)
+        Me.TextBox131.TabIndex = 24
         '
-        Me.TextBox101.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox101.Location = New System.Drawing.Point(664, 660)
-        Me.TextBox101.Name = "TextBox101"
-        Me.TextBox101.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox101.TabIndex = 20
+        'TextBox132
         '
-        'TextBox102
+        Me.TextBox132.Location = New System.Drawing.Point(1047, 580)
+        Me.TextBox132.Name = "TextBox132"
+        Me.TextBox132.Size = New System.Drawing.Size(39, 20)
+        Me.TextBox132.TabIndex = 24
         '
-        Me.TextBox102.Location = New System.Drawing.Point(718, 367)
-        Me.TextBox102.Name = "TextBox102"
-        Me.TextBox102.Size = New System.Drawing.Size(44, 20)
-        Me.TextBox102.TabIndex = 20
+        'TextBox133
         '
-        'TextBox103
+        Me.TextBox133.Location = New System.Drawing.Point(1087, 523)
+        Me.TextBox133.Name = "TextBox133"
+        Me.TextBox133.Size = New System.Drawing.Size(39, 20)
+        Me.TextBox133.TabIndex = 24
         '
-        Me.TextBox103.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox103.Location = New System.Drawing.Point(718, 392)
-        Me.TextBox103.Name = "TextBox103"
-        Me.TextBox103.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox103.TabIndex = 20
+        'TextBox134
         '
-        'TextBox104
+        Me.TextBox134.Location = New System.Drawing.Point(1087, 552)
+        Me.TextBox134.Name = "TextBox134"
+        Me.TextBox134.Size = New System.Drawing.Size(39, 20)
+        Me.TextBox134.TabIndex = 24
         '
-        Me.TextBox104.Location = New System.Drawing.Point(718, 413)
-        Me.TextBox104.Name = "TextBox104"
-        Me.TextBox104.Size = New System.Drawing.Size(44, 20)
-        Me.TextBox104.TabIndex = 20
+        'TextBox135
         '
-        'TextBox105
+        Me.TextBox135.Location = New System.Drawing.Point(1087, 580)
+        Me.TextBox135.Name = "TextBox135"
+        Me.TextBox135.Size = New System.Drawing.Size(39, 20)
+        Me.TextBox135.TabIndex = 24
         '
-        Me.TextBox105.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox105.Location = New System.Drawing.Point(718, 436)
-        Me.TextBox105.Name = "TextBox105"
-        Me.TextBox105.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox105.TabIndex = 20
+        'TextBox136
         '
-        'TextBox106
+        Me.TextBox136.Location = New System.Drawing.Point(1129, 523)
+        Me.TextBox136.Name = "TextBox136"
+        Me.TextBox136.Size = New System.Drawing.Size(24, 20)
+        Me.TextBox136.TabIndex = 24
         '
-        Me.TextBox106.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox106.Location = New System.Drawing.Point(718, 454)
-        Me.TextBox106.Name = "TextBox106"
-        Me.TextBox106.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox106.TabIndex = 20
+        'TextBox137
         '
-        'TextBox107
+        Me.TextBox137.Location = New System.Drawing.Point(1129, 552)
+        Me.TextBox137.Name = "TextBox137"
+        Me.TextBox137.Size = New System.Drawing.Size(24, 20)
+        Me.TextBox137.TabIndex = 24
         '
-        Me.TextBox107.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox107.Location = New System.Drawing.Point(718, 475)
-        Me.TextBox107.Name = "TextBox107"
-        Me.TextBox107.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox107.TabIndex = 20
+        'TextBox138
         '
-        'TextBox108
-        '
-        Me.TextBox108.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox108.Location = New System.Drawing.Point(718, 499)
-        Me.TextBox108.Name = "TextBox108"
-        Me.TextBox108.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox108.TabIndex = 20
-        '
-        'TextBox109
-        '
-        Me.TextBox109.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox109.Location = New System.Drawing.Point(718, 524)
-        Me.TextBox109.Name = "TextBox109"
-        Me.TextBox109.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox109.TabIndex = 20
-        '
-        'TextBox110
-        '
-        Me.TextBox110.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox110.Location = New System.Drawing.Point(719, 545)
-        Me.TextBox110.Name = "TextBox110"
-        Me.TextBox110.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox110.TabIndex = 20
-        '
-        'TextBox111
-        '
-        Me.TextBox111.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox111.Location = New System.Drawing.Point(719, 566)
-        Me.TextBox111.Name = "TextBox111"
-        Me.TextBox111.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox111.TabIndex = 20
-        '
-        'TextBox112
-        '
-        Me.TextBox112.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox112.Location = New System.Drawing.Point(719, 586)
-        Me.TextBox112.Name = "TextBox112"
-        Me.TextBox112.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox112.TabIndex = 20
-        '
-        'TextBox113
-        '
-        Me.TextBox113.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox113.Location = New System.Drawing.Point(718, 604)
-        Me.TextBox113.Name = "TextBox113"
-        Me.TextBox113.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox113.TabIndex = 20
-        '
-        'TextBox114
-        '
-        Me.TextBox114.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox114.Location = New System.Drawing.Point(718, 622)
-        Me.TextBox114.Name = "TextBox114"
-        Me.TextBox114.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox114.TabIndex = 20
-        '
-        'TextBox115
-        '
-        Me.TextBox115.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox115.Location = New System.Drawing.Point(718, 640)
-        Me.TextBox115.Name = "TextBox115"
-        Me.TextBox115.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox115.TabIndex = 20
-        '
-        'TextBox116
-        '
-        Me.TextBox116.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox116.Location = New System.Drawing.Point(719, 660)
-        Me.TextBox116.Name = "TextBox116"
-        Me.TextBox116.Size = New System.Drawing.Size(44, 17)
-        Me.TextBox116.TabIndex = 20
+        Me.TextBox138.Location = New System.Drawing.Point(1129, 580)
+        Me.TextBox138.Name = "TextBox138"
+        Me.TextBox138.Size = New System.Drawing.Size(24, 20)
+        Me.TextBox138.TabIndex = 24
         '
         '_7
         '
@@ -1459,11 +1713,12 @@ Partial Class _7
         Me.Text = "_7"
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
+        CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox6, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
@@ -1610,4 +1865,31 @@ Partial Class _7
     Friend WithEvents TextBox74 As TextBox
     Friend WithEvents TextBox87 As TextBox
     Friend WithEvents TextBox73 As TextBox
+    Friend WithEvents Button21 As Button
+    Friend WithEvents PictureBox6 As PictureBox
+    Friend WithEvents TextBox132 As TextBox
+    Friend WithEvents TextBox131 As TextBox
+    Friend WithEvents TextBox129 As TextBox
+    Friend WithEvents TextBox128 As TextBox
+    Friend WithEvents TextBox126 As TextBox
+    Friend WithEvents TextBox130 As TextBox
+    Friend WithEvents TextBox125 As TextBox
+    Friend WithEvents TextBox127 As TextBox
+    Friend WithEvents TextBox123 As TextBox
+    Friend WithEvents TextBox124 As TextBox
+    Friend WithEvents TextBox122 As TextBox
+    Friend WithEvents TextBox121 As TextBox
+    Friend WithEvents TextBox120 As TextBox
+    Friend WithEvents TextBox119 As TextBox
+    Friend WithEvents TextBox118 As TextBox
+    Friend WithEvents TextBox117 As TextBox
+    Friend WithEvents Button24 As Button
+    Friend WithEvents Button23 As Button
+    Friend WithEvents Button22 As Button
+    Friend WithEvents TextBox138 As TextBox
+    Friend WithEvents TextBox137 As TextBox
+    Friend WithEvents TextBox135 As TextBox
+    Friend WithEvents TextBox134 As TextBox
+    Friend WithEvents TextBox136 As TextBox
+    Friend WithEvents TextBox133 As TextBox
 End Class

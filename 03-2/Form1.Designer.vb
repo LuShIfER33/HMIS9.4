@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Form1
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class Form1
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         Me.Button1 = New System.Windows.Forms.Button()
@@ -128,21 +128,11 @@ Partial Class Form1
         Me.TextBox88 = New System.Windows.Forms.TextBox()
         Me.TextBox89 = New System.Windows.Forms.TextBox()
         Me.TextBox90 = New System.Windows.Forms.TextBox()
-        Me.PictureBox6 = New System.Windows.Forms.PictureBox()
-        Me.Button11 = New System.Windows.Forms.Button()
-        Me.Button12 = New System.Windows.Forms.Button()
-        Me.TextBox91 = New System.Windows.Forms.TextBox()
-        Me.TextBox92 = New System.Windows.Forms.TextBox()
-        Me.TextBox93 = New System.Windows.Forms.TextBox()
-        Me.TextBox94 = New System.Windows.Forms.TextBox()
-        Me.TextBox95 = New System.Windows.Forms.TextBox()
-        Me.TextBox96 = New System.Windows.Forms.TextBox()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox6, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Button1
@@ -910,89 +900,11 @@ Partial Class Form1
         Me.TextBox90.Size = New System.Drawing.Size(36, 20)
         Me.TextBox90.TabIndex = 30
         '
-        'PictureBox6
-        '
-        Me.PictureBox6.Image = CType(resources.GetObject("PictureBox6.Image"), System.Drawing.Image)
-        Me.PictureBox6.Location = New System.Drawing.Point(347, 442)
-        Me.PictureBox6.Name = "PictureBox6"
-        Me.PictureBox6.Size = New System.Drawing.Size(170, 176)
-        Me.PictureBox6.TabIndex = 32
-        Me.PictureBox6.TabStop = False
-        '
-        'Button11
-        '
-        Me.Button11.Location = New System.Drawing.Point(455, 594)
-        Me.Button11.Name = "Button11"
-        Me.Button11.Size = New System.Drawing.Size(55, 23)
-        Me.Button11.TabIndex = 34
-        Me.Button11.Text = "Push"
-        Me.Button11.UseVisualStyleBackColor = True
-        '
-        'Button12
-        '
-        Me.Button12.Location = New System.Drawing.Point(357, 594)
-        Me.Button12.Name = "Button12"
-        Me.Button12.Size = New System.Drawing.Size(59, 23)
-        Me.Button12.TabIndex = 33
-        Me.Button12.Text = "Load"
-        Me.Button12.UseVisualStyleBackColor = True
-        '
-        'TextBox91
-        '
-        Me.TextBox91.Location = New System.Drawing.Point(389, 534)
-        Me.TextBox91.Name = "TextBox91"
-        Me.TextBox91.Size = New System.Drawing.Size(36, 20)
-        Me.TextBox91.TabIndex = 35
-        '
-        'TextBox92
-        '
-        Me.TextBox92.Location = New System.Drawing.Point(389, 564)
-        Me.TextBox92.Name = "TextBox92"
-        Me.TextBox92.Size = New System.Drawing.Size(36, 20)
-        Me.TextBox92.TabIndex = 35
-        '
-        'TextBox93
-        '
-        Me.TextBox93.Location = New System.Drawing.Point(431, 534)
-        Me.TextBox93.Name = "TextBox93"
-        Me.TextBox93.Size = New System.Drawing.Size(36, 20)
-        Me.TextBox93.TabIndex = 35
-        '
-        'TextBox94
-        '
-        Me.TextBox94.Location = New System.Drawing.Point(431, 564)
-        Me.TextBox94.Name = "TextBox94"
-        Me.TextBox94.Size = New System.Drawing.Size(36, 20)
-        Me.TextBox94.TabIndex = 35
-        '
-        'TextBox95
-        '
-        Me.TextBox95.Location = New System.Drawing.Point(473, 534)
-        Me.TextBox95.Name = "TextBox95"
-        Me.TextBox95.Size = New System.Drawing.Size(36, 20)
-        Me.TextBox95.TabIndex = 35
-        '
-        'TextBox96
-        '
-        Me.TextBox96.Location = New System.Drawing.Point(473, 564)
-        Me.TextBox96.Name = "TextBox96"
-        Me.TextBox96.Size = New System.Drawing.Size(36, 20)
-        Me.TextBox96.TabIndex = 35
-        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(96.0!, 96.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi
         Me.ClientSize = New System.Drawing.Size(1035, 625)
-        Me.Controls.Add(Me.TextBox96)
-        Me.Controls.Add(Me.TextBox95)
-        Me.Controls.Add(Me.TextBox94)
-        Me.Controls.Add(Me.TextBox93)
-        Me.Controls.Add(Me.TextBox92)
-        Me.Controls.Add(Me.TextBox91)
-        Me.Controls.Add(Me.Button11)
-        Me.Controls.Add(Me.Button12)
-        Me.Controls.Add(Me.PictureBox6)
         Me.Controls.Add(Me.TextBox90)
         Me.Controls.Add(Me.TextBox89)
         Me.Controls.Add(Me.TextBox88)
@@ -1105,7 +1017,6 @@ Partial Class Form1
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox6, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -1215,13 +1126,4 @@ Partial Class Form1
     Friend WithEvents TextBox88 As TextBox
     Friend WithEvents TextBox89 As TextBox
     Friend WithEvents TextBox90 As TextBox
-    Friend WithEvents PictureBox6 As PictureBox
-    Friend WithEvents Button11 As Button
-    Friend WithEvents Button12 As Button
-    Friend WithEvents TextBox91 As TextBox
-    Friend WithEvents TextBox92 As TextBox
-    Friend WithEvents TextBox93 As TextBox
-    Friend WithEvents TextBox94 As TextBox
-    Friend WithEvents TextBox95 As TextBox
-    Friend WithEvents TextBox96 As TextBox
 End Class
