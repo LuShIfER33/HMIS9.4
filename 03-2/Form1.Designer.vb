@@ -112,9 +112,17 @@ Partial Class Form1
         Me.TextBox78 = New System.Windows.Forms.TextBox()
         Me.TextBox79 = New System.Windows.Forms.TextBox()
         Me.TextBox80 = New System.Windows.Forms.TextBox()
+        Me.PictureBox4 = New System.Windows.Forms.PictureBox()
+        Me.Button7 = New System.Windows.Forms.Button()
+        Me.Button8 = New System.Windows.Forms.Button()
+        Me.TextBox81 = New System.Windows.Forms.TextBox()
+        Me.TextBox82 = New System.Windows.Forms.TextBox()
+        Me.TextBox83 = New System.Windows.Forms.TextBox()
+        Me.TextBox84 = New System.Windows.Forms.TextBox()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Button1
@@ -671,7 +679,7 @@ Partial Class Form1
         'PictureBox3
         '
         Me.PictureBox3.Image = CType(resources.GetObject("PictureBox3.Image"), System.Drawing.Image)
-        Me.PictureBox3.Location = New System.Drawing.Point(344, 279)
+        Me.PictureBox3.Location = New System.Drawing.Point(344, 278)
         Me.PictureBox3.Name = "PictureBox3"
         Me.PictureBox3.Size = New System.Drawing.Size(192, 158)
         Me.PictureBox3.TabIndex = 12
@@ -679,7 +687,7 @@ Partial Class Form1
         '
         'Button5
         '
-        Me.Button5.Location = New System.Drawing.Point(439, 410)
+        Me.Button5.Location = New System.Drawing.Point(439, 409)
         Me.Button5.Name = "Button5"
         Me.Button5.Size = New System.Drawing.Size(75, 23)
         Me.Button5.TabIndex = 14
@@ -688,7 +696,7 @@ Partial Class Form1
         '
         'Button6
         '
-        Me.Button6.Location = New System.Drawing.Point(348, 410)
+        Me.Button6.Location = New System.Drawing.Point(348, 409)
         Me.Button6.Name = "Button6"
         Me.Button6.Size = New System.Drawing.Size(75, 23)
         Me.Button6.TabIndex = 13
@@ -746,23 +754,85 @@ Partial Class Form1
         '
         'TextBox79
         '
-        Me.TextBox79.Location = New System.Drawing.Point(486, 338)
+        Me.TextBox79.Location = New System.Drawing.Point(486, 337)
         Me.TextBox79.Name = "TextBox79"
         Me.TextBox79.Size = New System.Drawing.Size(36, 20)
         Me.TextBox79.TabIndex = 19
         '
         'TextBox80
         '
-        Me.TextBox80.Location = New System.Drawing.Point(487, 376)
+        Me.TextBox80.Location = New System.Drawing.Point(487, 375)
         Me.TextBox80.Name = "TextBox80"
         Me.TextBox80.Size = New System.Drawing.Size(36, 20)
         Me.TextBox80.TabIndex = 20
+        '
+        'PictureBox4
+        '
+        Me.PictureBox4.Image = CType(resources.GetObject("PictureBox4.Image"), System.Drawing.Image)
+        Me.PictureBox4.Location = New System.Drawing.Point(543, 279)
+        Me.PictureBox4.Name = "PictureBox4"
+        Me.PictureBox4.Size = New System.Drawing.Size(158, 165)
+        Me.PictureBox4.TabIndex = 21
+        Me.PictureBox4.TabStop = False
+        '
+        'Button7
+        '
+        Me.Button7.Location = New System.Drawing.Point(545, 284)
+        Me.Button7.Name = "Button7"
+        Me.Button7.Size = New System.Drawing.Size(59, 23)
+        Me.Button7.TabIndex = 22
+        Me.Button7.Text = "Load"
+        Me.Button7.UseVisualStyleBackColor = True
+        '
+        'Button8
+        '
+        Me.Button8.Location = New System.Drawing.Point(646, 284)
+        Me.Button8.Name = "Button8"
+        Me.Button8.Size = New System.Drawing.Size(55, 23)
+        Me.Button8.TabIndex = 23
+        Me.Button8.Text = "Push"
+        Me.Button8.UseVisualStyleBackColor = True
+        '
+        'TextBox81
+        '
+        Me.TextBox81.Location = New System.Drawing.Point(656, 333)
+        Me.TextBox81.Name = "TextBox81"
+        Me.TextBox81.Size = New System.Drawing.Size(36, 20)
+        Me.TextBox81.TabIndex = 24
+        '
+        'TextBox82
+        '
+        Me.TextBox82.Location = New System.Drawing.Point(657, 361)
+        Me.TextBox82.Name = "TextBox82"
+        Me.TextBox82.Size = New System.Drawing.Size(36, 20)
+        Me.TextBox82.TabIndex = 25
+        '
+        'TextBox83
+        '
+        Me.TextBox83.Location = New System.Drawing.Point(657, 390)
+        Me.TextBox83.Name = "TextBox83"
+        Me.TextBox83.Size = New System.Drawing.Size(36, 20)
+        Me.TextBox83.TabIndex = 25
+        '
+        'TextBox84
+        '
+        Me.TextBox84.Location = New System.Drawing.Point(656, 416)
+        Me.TextBox84.Name = "TextBox84"
+        Me.TextBox84.Size = New System.Drawing.Size(36, 20)
+        Me.TextBox84.TabIndex = 25
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(96.0!, 96.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi
         Me.ClientSize = New System.Drawing.Size(1035, 550)
+        Me.Controls.Add(Me.TextBox84)
+        Me.Controls.Add(Me.TextBox83)
+        Me.Controls.Add(Me.TextBox82)
+        Me.Controls.Add(Me.TextBox81)
+        Me.Controls.Add(Me.Button8)
+        Me.Controls.Add(Me.Button7)
+        Me.Controls.Add(Me.PictureBox4)
         Me.Controls.Add(Me.TextBox80)
         Me.Controls.Add(Me.TextBox79)
         Me.Controls.Add(Me.TextBox78)
@@ -857,6 +927,7 @@ Partial Class Form1
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -950,4 +1021,11 @@ Partial Class Form1
     Friend WithEvents TextBox78 As TextBox
     Friend WithEvents TextBox79 As TextBox
     Friend WithEvents TextBox80 As TextBox
+    Friend WithEvents PictureBox4 As PictureBox
+    Friend WithEvents Button7 As Button
+    Friend WithEvents Button8 As Button
+    Friend WithEvents TextBox81 As TextBox
+    Friend WithEvents TextBox82 As TextBox
+    Friend WithEvents TextBox83 As TextBox
+    Friend WithEvents TextBox84 As TextBox
 End Class

@@ -9,3 +9,4 @@ C:\Users\DELL\source\repos\03-2\03-2\obj\Debug\03-2.vbproj.CoreCompileInputs.cac
 C:\Users\DELL\source\repos\03-2\03-2\obj\Debug\03-2.exe
 C:\Users\DELL\source\repos\03-2\03-2\obj\Debug\03-2.xml
 C:\Users\DELL\source\repos\03-2\03-2\obj\Debug\03-2.pdb
+C:\Users\DELL\source\repos\03-2\03-2\obj\Debug\_03_2.Form1.resources
