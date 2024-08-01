@@ -1,0 +1,13 @@
+C:\Users\prabhat\Desktop\C# projects\18. Morbidity including under 5 yrs - 2\18. Morbidity including under 5 yrs - 2\bin\Debug\_18.Morbidity_including_under_5_yrs___2.exe.config
+C:\Users\prabhat\Desktop\C# projects\18. Morbidity including under 5 yrs - 2\18. Morbidity including under 5 yrs - 2\bin\Debug\_18.Morbidity_including_under_5_yrs___2.exe
+C:\Users\prabhat\Desktop\C# projects\18. Morbidity including under 5 yrs - 2\18. Morbidity including under 5 yrs - 2\bin\Debug\_18.Morbidity_including_under_5_yrs___2.pdb
+C:\Users\prabhat\Desktop\C# projects\18. Morbidity including under 5 yrs - 2\18. Morbidity including under 5 yrs - 2\bin\Debug\_18.Morbidity_including_under_5_yrs___2.xml
+C:\Users\prabhat\Desktop\C# projects\18. Morbidity including under 5 yrs - 2\18. Morbidity including under 5 yrs - 2\obj\Debug\18. Morbidity including under 5 yrs - 2.vbproj.AssemblyReference.cache
+C:\Users\prabhat\Desktop\C# projects\18. Morbidity including under 5 yrs - 2\18. Morbidity including under 5 yrs - 2\obj\Debug\18. Morbidity including under 5 yrs - 2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\prabhat\Desktop\C# projects\18. Morbidity including under 5 yrs - 2\18. Morbidity including under 5 yrs - 2\obj\Debug\_18.Morbidity_including_under_5_yrs___2.Form1.resources
+C:\Users\prabhat\Desktop\C# projects\18. Morbidity including under 5 yrs - 2\18. Morbidity including under 5 yrs - 2\obj\Debug\_18.Morbidity_including_under_5_yrs___2.Resources.resources
+C:\Users\prabhat\Desktop\C# projects\18. Morbidity including under 5 yrs - 2\18. Morbidity including under 5 yrs - 2\obj\Debug\18. Morbidity including under 5 yrs - 2.vbproj.GenerateResource.cache
+C:\Users\prabhat\Desktop\C# projects\18. Morbidity including under 5 yrs - 2\18. Morbidity including under 5 yrs - 2\obj\Debug\18. Morbidity including under 5 yrs - 2.vbproj.CoreCompileInputs.cache
+C:\Users\prabhat\Desktop\C# projects\18. Morbidity including under 5 yrs - 2\18. Morbidity including under 5 yrs - 2\obj\Debug\_18.Morbidity_including_under_5_yrs___2.exe
+C:\Users\prabhat\Desktop\C# projects\18. Morbidity including under 5 yrs - 2\18. Morbidity including under 5 yrs - 2\obj\Debug\_18.Morbidity_including_under_5_yrs___2.xml
+C:\Users\prabhat\Desktop\C# projects\18. Morbidity including under 5 yrs - 2\18. Morbidity including under 5 yrs - 2\obj\Debug\_18.Morbidity_including_under_5_yrs___2.pdb

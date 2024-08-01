@@ -11,3 +11,16 @@ C:\Users\prabhat\Desktop\C# projects\20. Gender Equality and Social inclusion\20
 C:\Users\prabhat\Desktop\C# projects\20. Gender Equality and Social inclusion\20. Gender Equality and Social inclusion\obj\Debug\_20.Gender_Equality_and_Social_inclusion.exe
 C:\Users\prabhat\Desktop\C# projects\20. Gender Equality and Social inclusion\20. Gender Equality and Social inclusion\obj\Debug\_20.Gender_Equality_and_Social_inclusion.xml
 C:\Users\prabhat\Desktop\C# projects\20. Gender Equality and Social inclusion\20. Gender Equality and Social inclusion\obj\Debug\_20.Gender_Equality_and_Social_inclusion.pdb
+C:\Users\prabhat\Desktop\HMIS9.4\20. Gender Equality and Social inclusion\20. Gender Equality and Social inclusion\bin\Debug\_20.Gender_Equality_and_Social_inclusion.exe.config
+C:\Users\prabhat\Desktop\HMIS9.4\20. Gender Equality and Social inclusion\20. Gender Equality and Social inclusion\bin\Debug\_20.Gender_Equality_and_Social_inclusion.exe
+C:\Users\prabhat\Desktop\HMIS9.4\20. Gender Equality and Social inclusion\20. Gender Equality and Social inclusion\bin\Debug\_20.Gender_Equality_and_Social_inclusion.pdb
+C:\Users\prabhat\Desktop\HMIS9.4\20. Gender Equality and Social inclusion\20. Gender Equality and Social inclusion\bin\Debug\_20.Gender_Equality_and_Social_inclusion.xml
+C:\Users\prabhat\Desktop\HMIS9.4\20. Gender Equality and Social inclusion\20. Gender Equality and Social inclusion\obj\Debug\20. Gender Equality and Social inclusion.vbproj.AssemblyReference.cache
+C:\Users\prabhat\Desktop\HMIS9.4\20. Gender Equality and Social inclusion\20. Gender Equality and Social inclusion\obj\Debug\20. Gender Equality and Social inclusion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\prabhat\Desktop\HMIS9.4\20. Gender Equality and Social inclusion\20. Gender Equality and Social inclusion\obj\Debug\_20.Gender_Equality_and_Social_inclusion.Form1.resources
+C:\Users\prabhat\Desktop\HMIS9.4\20. Gender Equality and Social inclusion\20. Gender Equality and Social inclusion\obj\Debug\_20.Gender_Equality_and_Social_inclusion.Resources.resources
+C:\Users\prabhat\Desktop\HMIS9.4\20. Gender Equality and Social inclusion\20. Gender Equality and Social inclusion\obj\Debug\20. Gender Equality and Social inclusion.vbproj.GenerateResource.cache
+C:\Users\prabhat\Desktop\HMIS9.4\20. Gender Equality and Social inclusion\20. Gender Equality and Social inclusion\obj\Debug\20. Gender Equality and Social inclusion.vbproj.CoreCompileInputs.cache
+C:\Users\prabhat\Desktop\HMIS9.4\20. Gender Equality and Social inclusion\20. Gender Equality and Social inclusion\obj\Debug\_20.Gender_Equality_and_Social_inclusion.exe
+C:\Users\prabhat\Desktop\HMIS9.4\20. Gender Equality and Social inclusion\20. Gender Equality and Social inclusion\obj\Debug\_20.Gender_Equality_and_Social_inclusion.xml
+C:\Users\prabhat\Desktop\HMIS9.4\20. Gender Equality and Social inclusion\20. Gender Equality and Social inclusion\obj\Debug\_20.Gender_Equality_and_Social_inclusion.pdb
