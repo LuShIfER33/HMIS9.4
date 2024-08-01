@@ -73,6 +73,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="10 Kha.Designer.vb">
+      <DependentUpon>10 Kha.vb</DependentUpon>
+    </Compile>
+    <Compile Include="10 Kha.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="10.Designer.vb">
       <DependentUpon>10.vb</DependentUpon>
     </Compile>
@@ -146,6 +152,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="10 Kha.resx">
+      <DependentUpon>10 Kha.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="10.resx">
       <DependentUpon>10.vb</DependentUpon>
     </EmbeddedResource>
