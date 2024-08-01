@@ -904,6 +904,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(96.0!, 96.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi
+        Me.BackColor = System.Drawing.Color.LemonChiffon
         Me.ClientSize = New System.Drawing.Size(1035, 625)
         Me.Controls.Add(Me.TextBox90)
         Me.Controls.Add(Me.TextBox89)

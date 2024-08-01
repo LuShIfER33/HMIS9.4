@@ -24,15 +24,15 @@ Partial Class _6
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(_6))
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
-        Me.Button1 = New System.Windows.Forms.Button()
-        Me.Button2 = New System.Windows.Forms.Button()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
-        Me.TextBox2 = New System.Windows.Forms.TextBox()
-        Me.TextBox3 = New System.Windows.Forms.TextBox()
-        Me.TextBox4 = New System.Windows.Forms.TextBox()
-        Me.TextBox5 = New System.Windows.Forms.TextBox()
         Me.TextBox6 = New System.Windows.Forms.TextBox()
+        Me.TextBox5 = New System.Windows.Forms.TextBox()
+        Me.TextBox4 = New System.Windows.Forms.TextBox()
+        Me.TextBox3 = New System.Windows.Forms.TextBox()
+        Me.TextBox2 = New System.Windows.Forms.TextBox()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.Button2 = New System.Windows.Forms.Button()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.GroupBox1.SuspendLayout()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -54,23 +54,47 @@ Partial Class _6
         Me.GroupBox1.TabIndex = 0
         Me.GroupBox1.TabStop = False
         '
-        'PictureBox1
+        'TextBox6
         '
-        Me.PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), System.Drawing.Image)
-        Me.PictureBox1.Location = New System.Drawing.Point(4, 9)
-        Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(645, 330)
-        Me.PictureBox1.TabIndex = 0
-        Me.PictureBox1.TabStop = False
+        Me.TextBox6.Location = New System.Drawing.Point(534, 304)
+        Me.TextBox6.Name = "TextBox6"
+        Me.TextBox6.Size = New System.Drawing.Size(108, 20)
+        Me.TextBox6.TabIndex = 2
         '
-        'Button1
+        'TextBox5
         '
-        Me.Button1.Location = New System.Drawing.Point(454, 55)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(70, 33)
-        Me.Button1.TabIndex = 1
-        Me.Button1.Text = "Load"
-        Me.Button1.UseVisualStyleBackColor = True
+        Me.TextBox5.Location = New System.Drawing.Point(534, 264)
+        Me.TextBox5.Name = "TextBox5"
+        Me.TextBox5.Size = New System.Drawing.Size(108, 20)
+        Me.TextBox5.TabIndex = 2
+        '
+        'TextBox4
+        '
+        Me.TextBox4.Location = New System.Drawing.Point(534, 236)
+        Me.TextBox4.Name = "TextBox4"
+        Me.TextBox4.Size = New System.Drawing.Size(108, 20)
+        Me.TextBox4.TabIndex = 2
+        '
+        'TextBox3
+        '
+        Me.TextBox3.Location = New System.Drawing.Point(534, 203)
+        Me.TextBox3.Name = "TextBox3"
+        Me.TextBox3.Size = New System.Drawing.Size(108, 20)
+        Me.TextBox3.TabIndex = 2
+        '
+        'TextBox2
+        '
+        Me.TextBox2.Location = New System.Drawing.Point(534, 170)
+        Me.TextBox2.Name = "TextBox2"
+        Me.TextBox2.Size = New System.Drawing.Size(108, 20)
+        Me.TextBox2.TabIndex = 2
+        '
+        'TextBox1
+        '
+        Me.TextBox1.Location = New System.Drawing.Point(534, 130)
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.Size = New System.Drawing.Size(108, 20)
+        Me.TextBox1.TabIndex = 2
         '
         'Button2
         '
@@ -81,52 +105,29 @@ Partial Class _6
         Me.Button2.Text = "Push"
         Me.Button2.UseVisualStyleBackColor = True
         '
-        'TextBox1
+        'Button1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(534, 130)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(108, 20)
-        Me.TextBox1.TabIndex = 2
+        Me.Button1.Location = New System.Drawing.Point(454, 55)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(70, 33)
+        Me.Button1.TabIndex = 1
+        Me.Button1.Text = "Load"
+        Me.Button1.UseVisualStyleBackColor = True
         '
-        'TextBox2
+        'PictureBox1
         '
-        Me.TextBox2.Location = New System.Drawing.Point(534, 170)
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(108, 20)
-        Me.TextBox2.TabIndex = 2
-        '
-        'TextBox3
-        '
-        Me.TextBox3.Location = New System.Drawing.Point(534, 203)
-        Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(108, 20)
-        Me.TextBox3.TabIndex = 2
-        '
-        'TextBox4
-        '
-        Me.TextBox4.Location = New System.Drawing.Point(534, 236)
-        Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(108, 20)
-        Me.TextBox4.TabIndex = 2
-        '
-        'TextBox5
-        '
-        Me.TextBox5.Location = New System.Drawing.Point(534, 264)
-        Me.TextBox5.Name = "TextBox5"
-        Me.TextBox5.Size = New System.Drawing.Size(108, 20)
-        Me.TextBox5.TabIndex = 2
-        '
-        'TextBox6
-        '
-        Me.TextBox6.Location = New System.Drawing.Point(534, 304)
-        Me.TextBox6.Name = "TextBox6"
-        Me.TextBox6.Size = New System.Drawing.Size(108, 20)
-        Me.TextBox6.TabIndex = 2
+        Me.PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), System.Drawing.Image)
+        Me.PictureBox1.Location = New System.Drawing.Point(4, 9)
+        Me.PictureBox1.Name = "PictureBox1"
+        Me.PictureBox1.Size = New System.Drawing.Size(645, 330)
+        Me.PictureBox1.TabIndex = 0
+        Me.PictureBox1.TabStop = False
         '
         '_6
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.Color.LemonChiffon
         Me.ClientSize = New System.Drawing.Size(661, 347)
         Me.Controls.Add(Me.GroupBox1)
         Me.Name = "_6"

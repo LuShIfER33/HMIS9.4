@@ -24,7 +24,6 @@ Partial Class _11
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(_11))
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.TextBox1 = New System.Windows.Forms.TextBox()
@@ -38,6 +37,7 @@ Partial Class _11
         Me.TextBox9 = New System.Windows.Forms.TextBox()
         Me.TextBox10 = New System.Windows.Forms.TextBox()
         Me.TextBox11 = New System.Windows.Forms.TextBox()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.GroupBox1.SuspendLayout()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -63,15 +63,6 @@ Partial Class _11
         Me.GroupBox1.Size = New System.Drawing.Size(659, 160)
         Me.GroupBox1.TabIndex = 0
         Me.GroupBox1.TabStop = False
-        '
-        'PictureBox1
-        '
-        Me.PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), System.Drawing.Image)
-        Me.PictureBox1.Location = New System.Drawing.Point(5, 11)
-        Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(646, 138)
-        Me.PictureBox1.TabIndex = 0
-        Me.PictureBox1.TabStop = False
         '
         'Button1
         '
@@ -168,10 +159,21 @@ Partial Class _11
         Me.TextBox11.Size = New System.Drawing.Size(84, 20)
         Me.TextBox11.TabIndex = 2
         '
+        'PictureBox1
+        '
+        Me.PictureBox1.BackColor = System.Drawing.Color.LemonChiffon
+        Me.PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), System.Drawing.Image)
+        Me.PictureBox1.Location = New System.Drawing.Point(5, 11)
+        Me.PictureBox1.Name = "PictureBox1"
+        Me.PictureBox1.Size = New System.Drawing.Size(646, 138)
+        Me.PictureBox1.TabIndex = 0
+        Me.PictureBox1.TabStop = False
+        '
         '_11
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
-        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(96.0!, 96.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi
+        Me.BackColor = System.Drawing.Color.LemonChiffon
         Me.ClientSize = New System.Drawing.Size(665, 167)
         Me.Controls.Add(Me.GroupBox1)
         Me.Name = "_11"

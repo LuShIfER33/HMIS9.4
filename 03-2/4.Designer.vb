@@ -108,6 +108,7 @@ Partial Class _4
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.Color.LemonChiffon
         Me.ClientSize = New System.Drawing.Size(187, 190)
         Me.Controls.Add(Me.TextBox96)
         Me.Controls.Add(Me.TextBox95)
