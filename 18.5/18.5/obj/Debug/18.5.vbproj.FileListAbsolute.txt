@@ -1,0 +1,13 @@
+C:\Users\prabhat\Desktop\C# projects\18.5\18.5\bin\Debug\18.5.exe.config
+C:\Users\prabhat\Desktop\C# projects\18.5\18.5\bin\Debug\18.5.exe
+C:\Users\prabhat\Desktop\C# projects\18.5\18.5\bin\Debug\18.5.pdb
+C:\Users\prabhat\Desktop\C# projects\18.5\18.5\bin\Debug\18.5.xml
+C:\Users\prabhat\Desktop\C# projects\18.5\18.5\obj\Debug\18.5.vbproj.AssemblyReference.cache
+C:\Users\prabhat\Desktop\C# projects\18.5\18.5\obj\Debug\18.5.vbproj.SuggestedBindingRedirects.cache
+C:\Users\prabhat\Desktop\C# projects\18.5\18.5\obj\Debug\_18._5.Form1.resources
+C:\Users\prabhat\Desktop\C# projects\18.5\18.5\obj\Debug\_18._5.Resources.resources
+C:\Users\prabhat\Desktop\C# projects\18.5\18.5\obj\Debug\18.5.vbproj.GenerateResource.cache
+C:\Users\prabhat\Desktop\C# projects\18.5\18.5\obj\Debug\18.5.vbproj.CoreCompileInputs.cache
+C:\Users\prabhat\Desktop\C# projects\18.5\18.5\obj\Debug\18.5.exe
+C:\Users\prabhat\Desktop\C# projects\18.5\18.5\obj\Debug\18.5.xml
+C:\Users\prabhat\Desktop\C# projects\18.5\18.5\obj\Debug\18.5.pdb
